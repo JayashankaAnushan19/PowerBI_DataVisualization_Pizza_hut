@@ -1,1 +1,1 @@
-To vew the report - Need to install the PowerBI and open via PowerBI
+To view the report - Need to install the PowerBI and open via PowerBI
