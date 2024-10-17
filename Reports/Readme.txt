@@ -1,0 +1,1 @@
+To vew the report - Need to install the PowerBI and open via PowerBI
