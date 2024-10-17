@@ -24,7 +24,7 @@ The data is intended solely for visualization purposes and serves as a foundatio
 ## Tools and Technologies
 
 - Microsoft Power BI: For data visualization and report creation.
-- Kaggle: Data source.
+- Kaggle: Data source (kaggle.com).
 
   
 ## Getting Started
